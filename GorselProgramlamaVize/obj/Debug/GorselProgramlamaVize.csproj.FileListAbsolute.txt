@@ -1,0 +1,13 @@
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.exe.config
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.AssemblyReference.cache
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Etkinlik.resources
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Form1.resources
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Form2.resources
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Properties.Resources.resources
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.GenerateResource.cache
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.csproj.CoreCompileInputs.cache
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.exe
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.pdb
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\bin\Debug\GorselProgramlamaVize.pdb
+C:\Users\sanan\OneDrive\Masaüstü\GP\GorselProgramlamaVize\GorselProgramlamaVize\obj\Debug\GorselProgramlamaVize.Form3.resources
